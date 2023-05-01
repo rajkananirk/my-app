@@ -19,7 +19,6 @@ import Sidebar from "./pages/components/sidebar";
 import Setting from './pages/Setting';
 
 // import Sendnotification from "../pages/sendnotification";
-// import Usertable from "../pages/usertable";
 
 function App() {
   return (
