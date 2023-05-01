@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import "./pages/components/sidebarstyle.scss";
+import "./styles/Home.module.scss";
+import "./styles/sendstyle.scss";
+import "./styles/usertablestyle.scss";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
